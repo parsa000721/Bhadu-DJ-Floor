@@ -1,0 +1,6 @@
+{
+  "name": "Bhadu DJ Floor",
+  "description": "Modern premium DJ Booking Website for Bhadu DJ Floor with a responsive Admin Dashboard, media gallery, song library, and offline-first booking management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

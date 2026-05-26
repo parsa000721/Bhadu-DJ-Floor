@@ -1,0 +1,188 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "bhadudjpassword123"
+  },
+  "settings": {
+    "upiId": "bhadudj@okaxis",
+    "upiQrCode": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=upi://pay?pa=bhadudj@okaxis&pn=Bhadu%20DJ%20Floor&mc=0000&mode=02&purpose=00",
+    "contactPhone": "+91 95099-99689",
+    "address": "गांव कलरू, मेडता सिटी (नागौर), राजस्थान",
+    "email": "bhadudjfloor@gmail.com",
+    "businessTiming": "सुबह 08:00 से रात्रि 10:00 बजे तक",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14197.808546115984!2d74.12356525!3d26.65023455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396be4b4a1ffffaf%3A0xe6bf44bc4ad78f88!2sMerta%20City%2C%20Rajasthan%20341510!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+  },
+  "socialLinks": {
+    "whatsapp": "https://wa.me/919509999689",
+    "facebook": "https://facebook.com/bhadudjfloor",
+    "instagram": "https://instagram.com/bhadudjfloor",
+    "youtube": "https://youtube.com/bhadudjfloor",
+    "telegram": "https://t.me/bhadudjfloor"
+  },
+  "banners": [
+    {
+      "id": "b1",
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?q=80&w=1200",
+      "title": "भादू डीजे फ्लोर",
+      "subtitle": "हर खुशी में DJ का दमदार धमाका! राजस्थान का नंबर 1 साउंड सिस्टम।",
+      "buttonText": "अभी ऑनलाइन बुकिंग करें",
+      "buttonLink": "booking"
+    },
+    {
+      "id": "b2",
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=1200",
+      "title": "लेटेस्ट लाइट्स और क्रिस्प साउंड",
+      "subtitle": "शादी, बारात, जन्मदिन और हर पार्टी के लिए प्रीमियम हाइब्रिड बास सैटअप।",
+      "buttonText": "गैलरी और सॉन्ग्स देखें",
+      "buttonLink": "gallery"
+    },
+    {
+      "id": "b3",
+      "image": "https://images.unsplash.com/photo-1482440308425-276ad0f28b19?q=80&w=1200",
+      "title": "हाई-टेक डिजिटल डीजे फ्लोर",
+      "subtitle": "आरजीबी लेजर, स्मोक शो और 4D साउंड वाइब्रेशन फील करें।",
+      "buttonText": "हमसे संपर्क करें",
+      "buttonLink": "contact"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "title": "रॉयल वेडिंग नाइट सेटअप",
+      "category": "Photos",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1545128485-c400e7702796?q=80&w=600"
+    },
+    {
+      "id": "g2",
+      "title": "लेजर और लाइट इफेक्ट्स शो",
+      "category": "Lights",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=600"
+    },
+    {
+      "id": "g3",
+      "title": "एनर्जीटिक बारात डांस",
+      "category": "Dance Videos",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=600"
+    },
+    {
+      "id": "g4",
+      "title": "भादू डीजे का न्यू कंसोल",
+      "category": "Photos",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1526478806334-5fa488a7efd1?q=80&w=600"
+    },
+    {
+      "id": "g5",
+      "title": "रंग-बिरंगी आरजीबी धुंध",
+      "category": "Lights",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1574169208507-84376144848b?q=80&w=600"
+    },
+    {
+      "id": "g6",
+      "title": "डीजे फ्लोर पर धमाकेदार परफॉरमेंस",
+      "category": "Event Reels",
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+    },
+    {
+      "id": "g7",
+      "title": "थ्रिलिंग फायर स्टेज स्मोक",
+      "category": "DJ Videos",
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    }
+  ],
+  "songs": [
+    {
+      "id": "s1",
+      "title": "Rajasthani Bass Remix (Bhadu Special)",
+      "artist": "DJ Bhadu Remix",
+      "category": "Rajasthani DJ Songs",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "duration": "6:12",
+      "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=150"
+    },
+    {
+      "id": "s2",
+      "title": "High Octane Shaadi Mashup 2026",
+      "artist": "DJ Star Club Mix",
+      "category": "Wedding Songs",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "duration": "7:05",
+      "thumbnail": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?q=80&w=150"
+    },
+    {
+      "id": "s3",
+      "title": "Hindi Trending Club Beats (Bass Boosted)",
+      "artist": "Bhadu Floor Rocker",
+      "category": "Bass Boosted",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "duration": "5:44",
+      "thumbnail": "https://images.unsplash.com/photo-1482440308425-276ad0f28b19?q=80&w=150"
+    },
+    {
+      "id": "s4",
+      "title": "Rajasthani Folk Traditional DJ Remix",
+      "artist": "Teja Ji Beat Mix",
+      "category": "Rajasthani DJ Songs",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "duration": "8:21",
+      "thumbnail": "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=150"
+    },
+    {
+      "id": "s5",
+      "title": "Bollywood Electro Love Mashup 2026",
+      "artist": "Vibe King DJ",
+      "category": "Trending Songs",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "duration": "4:50",
+      "thumbnail": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=150"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "BDJ-260525-01",
+      "customerName": "महेंद्र चौधरी",
+      "mobileNumber": "98290-12345",
+      "date": "2026-06-12",
+      "location": "मेड़ता सिटी (उत्सव पैलेस)",
+      "eventType": "Wedding",
+      "totalAmount": 25000,
+      "advanceAmount": 5000,
+      "remainingAmount": 20000,
+      "status": "Confirmed",
+      "paymentScreenshot": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=200",
+      "notes": "शाम को 7 बजे बारात आगमन है, एक्स्ट्रा लेजर लाइट और हैवी बास चाहिए।",
+      "createdAt": "2026-05-25T13:52:09Z"
+    },
+    {
+      "id": "BDJ-260525-02",
+      "customerName": "दिनेश जाखड़",
+      "mobileNumber": "94140-54321",
+      "date": "2026-06-20",
+      "location": "गांव कलरू (घर का कार्यक्रम)",
+      "eventType": "Birthday Party",
+      "totalAmount": 12000,
+      "advanceAmount": 2000,
+      "remainingAmount": 10000,
+      "status": "Pending",
+      "paymentScreenshot": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=200",
+      "notes": "स्मोक शो और एलईडी वॉल की जरूरत है।",
+      "createdAt": "2026-05-25T13:50:00Z"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq1",
+      "name": "रामेश कुमार",
+      "phone": "9988776655",
+      "subject": "शादी प्रोग्राम बुकिंग",
+      "message": "नवम्बर 25 को गांव मण्डल में शादी प्रोग्राम के लिए क्या चार्ज रहेगा? कृपया कॉल करें।",
+      "date": "2026-05-15"
+    }
+  ]
+}
